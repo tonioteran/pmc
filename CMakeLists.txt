@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.10)
+cmake_minimum_required(VERSION 3.5)
 project(pmc VERSION 1.0.0)
 
 set(PMC_SOURCE_FILES
